@@ -1,3 +1,4 @@
+<img src="images/photo.png" width="900">
 ## Linux Administration Roadmap
 
 <details>
