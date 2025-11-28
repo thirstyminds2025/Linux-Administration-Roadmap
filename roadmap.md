@@ -1,5 +1,3 @@
-![My Image](images/photo.png)
-<img src="images/photo.png" width="300">
 ## Linux Administration Roadmap
 
 <details>
