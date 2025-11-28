@@ -4,7 +4,6 @@
 
 <details>
   <summary>User and Group Management</summary>
----
  
 ## ✅ **User and Group Management – Topics Overview**
 
