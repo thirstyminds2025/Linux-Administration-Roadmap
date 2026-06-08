@@ -1,4 +1,4 @@
-<img src="images/photo.png" width="600">
+<img src="images/photo.png" width="800" height="400">
 
 ## Linux Administration Roadmap
 
