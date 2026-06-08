@@ -16207,3 +16207,14 @@ Create Cron jobs that:
 6. Log all outputs to `/var/log/cron-labs/`.
 
 </details>
+<details>
+  <summary>applications</summary>
+  
+* install and configure applications on linux servers
+* install and configure applications on different linux distros
+* taking regular backups of applications
+* version updation
+* testing of applications in different/new OS versions of linux and documenting
+* migration of application to new servers or new cloud vendors
+* application troubleshooting
+</details>
