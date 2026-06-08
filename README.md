@@ -11,4 +11,3 @@ Linux administration is a foundational skill for both DevOps and cloud careers b
 In short, Linux administration is often considered the backbone of modern DevOps and cloud computing environments.
 So if you aspire to become a DevOps / Cloud professional Never Ever Skip Linux
 
-<img src="images/photo.png" width="600">
