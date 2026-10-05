@@ -16216,5 +16216,5 @@ Create Cron jobs that:
 * version updation
 * testing of applications in different/new OS versions of linux and documenting
 * migration of application to new servers or new cloud vendors
-* application troubleshooting
+* application troubleshooting.
 </details>
